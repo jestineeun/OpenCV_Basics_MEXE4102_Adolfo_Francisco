@@ -1,5 +1,4 @@
 # OpenCV_Basics_MEXE4102_Adolfo_Francisco
-OpenCV_Basics
 
 ## Applying Erosion and Dilation Techniques for Feature Refinement in a Fruit Dataset
 The chosen [dataset](https://www.kaggle.com/datasets/shreyapmaher/fruits-dataset-images) features nine widely recognized fruits: mango, banana, cherry, strawberry, chikoo, grapes, kiwi, orange, and apple.
