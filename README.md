@@ -2,7 +2,7 @@
 OpenCV_Basics
 
 ## Applying Erosion and Dilation Techniques for Feature Refinement in a Fruit Dataset
-The chosen [dataset] (https://www.kaggle.com/datasets/shreyapmaher/fruits-dataset-images) features nine widely recognized fruits: mango, banana, cherry, strawberry, chikoo, grapes, kiwi, orange, and apple.
+The chosen [dataset](https://www.kaggle.com/datasets/shreyapmaher/fruits-dataset-images) features nine widely recognized fruits: mango, banana, cherry, strawberry, chikoo, grapes, kiwi, orange, and apple.
 
 ## Introduction
   This project focuses on Refining Image Features Using Erosion and Dilation techniques. Using a dataset of nine fruits. We applied erosion followed by dilation to enhance image features by removing noise and smoothing details. Image datasets often include noise or irregularities that can hinder accurate analysis and object detection. By combining erosion and dilation, this project aims to address the challenge of noise reduction and feature refinement, ensuring that key visual elements are preserved for further analysis.
