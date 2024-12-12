@@ -34,6 +34,11 @@ The pipeline provides clear and intuitive visual outputs at each stage, allowing
 
 - Overall, the project showcases the value of morphological operations in improving the quality and accuracy of image-based systems and highlights their potential for adaptation to various real-world use cases.
 
+  # Additional Materials
+
+  - picture yan bes
+
+
 
 
 
