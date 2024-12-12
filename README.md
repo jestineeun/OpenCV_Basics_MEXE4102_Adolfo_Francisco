@@ -20,16 +20,16 @@ The pipeline applies erosion to remove small noise and irregularities, followed 
 
  ## Conclusion
 
- ## Findings
+ # Findings
 - The code effectively refines image features by applying erosion followed by dilation, demonstrating their combined effectiveness in removing noise and enhancing critical features.
 - Preprocessing steps such as resizing and noise reduction improve the consistency and quality of the processed images.
 The pipeline provides clear and intuitive visual outputs at each stage, allowing for easy evaluation of the refinement process.
-## Challenges
+# Challenges
 - Parameter Tuning: Determining the optimal kernel size and number of iterations for erosion and dilation requires careful testing and adjustment.
 - Dataset Variability: Differences in image quality, resolution, and noise levels can impact the effectiveness of feature refinement.
 - Computational Cost: Processing high-resolution images or large datasets can be time-intensive, especially when multiple iterations are required.
 - Feature Loss: Over-processing during erosion or dilation may lead to the unintended removal of important features.
-## Outcome
+# Outcome
 -The project successfully demonstrates the practical application of erosion and dilation for feature refinement, highlighting their importance in image preprocessing for computer vision tasks such as segmentation and object detection. The generated visual outputs validate the effectiveness of these techniques, providing a reliable foundation for further image analysis and machine learning applications.
 
 - Overall, the project showcases the value of morphological operations in improving the quality and accuracy of image-based systems and highlights their potential for adaptation to various real-world use cases.
