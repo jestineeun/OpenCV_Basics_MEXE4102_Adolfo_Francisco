@@ -39,25 +39,22 @@ The pipeline applies erosion to remove small noise and irregularities, followed 
 
     + Define the dataset folder and iterate through each image:
 
-      * Check File Extensions: Ensure files are valid image formats (e.g., .jpg, .png).</li>
-Resize Images: Adjust image dimensions to ensure uniformity across the dataset.
-Apply Gaussian Blur: Smooth images to reduce noise.
-Apply Canny Edge Detection:
+      * **Check File Extensions:** Ensure files are valid image formats (e.g., .jpg, .png).</li>
+      * **Resize Images:** Adjust image dimensions to ensure uniformity across the dataset.
+      * **Apply Gaussian Blur:** Smooth images to reduce noise.
+      * **Apply Canny Edge Detection:** Detect edges in the images using the Canny edge detection method to highlight features.
+      * **Perform Morphological Operations:** Define a kernel for morphological transformations.
+      * **Erosion:** Apply erosion to remove small noise and refine edges.
+      * **Dilation:** Follow erosion with dilation to enhance essential features and restore edge structure.
 
-Detect edges in the images using the Canny edge detection method to highlight features.
-Perform Morphological Operations:
+- **Display Results:**
 
-Define a kernel for morphological transformations.
-Erosion: Apply erosion to remove small noise and refine edges.
-Dilation: Follow erosion with dilation to enhance essential features and restore edge structure.
-Display Results:
-
-Use matplotlib to visualize each step:
-Step 1: Original Image.
-Step 2: Canny Image.
-Step 3: Eroded Image.
-Step 4: Dilated Image.
-Step 5: Final Processed Result.
+    + Use matplotlib to visualize each step:
+      * Step 1: Original Image.
+      * Step 2: Canny Image.
+      * Step 3: Eroded Image.
+      * Step 4: Dilated Image.
+      * Step 5: Final Processed Result.
 
  # Conclusion
 
