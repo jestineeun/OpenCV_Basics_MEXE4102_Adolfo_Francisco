@@ -23,19 +23,22 @@ The pipeline applies erosion to remove small noise and irregularities, followed 
 
     + Select a fruit image dataset suitable for applying erosion and dilation techniques.
 
-Set Up the Environment:
+- **Set Up the Environment:**
 
-Use Google Colab or Jupyter Notebook as the coding platform.
-Import Required Libraries:
+    + Use Google Colab or Jupyter Notebook as the coding platform.
 
-Import essential libraries: cv2, os, numpy, and matplotlib.pyplot.
-Clone the Repository:
+- **Import Required Libraries:**
 
-Clone the GitHub repository containing the fruit dataset and any necessary supporting files.
-Preprocess Images:
+    + Import essential libraries: cv2, os, numpy, and matplotlib.pyplot.
 
-Define the dataset folder and iterate through each image:
-Check File Extensions: Ensure files are valid image formats (e.g., .jpg, .png).
+- **Clone the Repository:**
+
+    + Clone the GitHub repository containing the fruit dataset and any necessary supporting files.
+
+- **Preprocess Images:**
+
+    + Define the dataset folder and iterate through each image:
+      list-style-type: square Check File Extensions: Ensure files are valid image formats (e.g., .jpg, .png).
 Resize Images: Adjust image dimensions to ensure uniformity across the dataset.
 Apply Gaussian Blur: Smooth images to reduce noise.
 Apply Canny Edge Detection:
