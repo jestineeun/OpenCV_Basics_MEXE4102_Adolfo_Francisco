@@ -21,7 +21,8 @@ The pipeline applies erosion to remove small noise and irregularities, followed 
 
 - **Choose a Dataset:**
 
-Select a fruit image dataset suitable for applying erosion and dilation techniques.
+    + Select a fruit image dataset suitable for applying erosion and dilation techniques.
+
 Set Up the Environment:
 
 Use Google Colab or Jupyter Notebook as the coding platform.
