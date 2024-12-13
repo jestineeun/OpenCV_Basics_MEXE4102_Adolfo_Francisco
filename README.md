@@ -38,7 +38,8 @@ The pipeline applies erosion to remove small noise and irregularities, followed 
 - **Preprocess Images:**
 
     + Define the dataset folder and iterate through each image:
-      <li style="list-style-type: square;"> Check File Extensions: Ensure files are valid image formats (e.g., .jpg, .png).</li>
+
+      * Check File Extensions: Ensure files are valid image formats (e.g., .jpg, .png).</li>
 Resize Images: Adjust image dimensions to ensure uniformity across the dataset.
 Apply Gaussian Blur: Smooth images to reduce noise.
 Apply Canny Edge Detection:
