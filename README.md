@@ -16,7 +16,43 @@ The pipeline applies erosion to remove small noise and irregularities, followed 
 
  The expected outcome is an efficient and adaptable preprocessing framework that enhances image quality, demonstrating the significance of morphological operations for tasks such as object detection and segmentation. This project highlights the practical applications of erosion and dilation in computer vision, offering potential improvements for industrial automation and image analysis workflows.
 
- # Wala pa ang PROCESS
+ # Project Methods
+   Follow the step-by-step procedure below to implement the project:
+
+- **Choose a Dataset:**
+
+Select a fruit image dataset suitable for applying erosion and dilation techniques.
+Set Up the Environment:
+
+Use Google Colab or Jupyter Notebook as the coding platform.
+Import Required Libraries:
+
+Import essential libraries: cv2, os, numpy, and matplotlib.pyplot.
+Clone the Repository:
+
+Clone the GitHub repository containing the fruit dataset and any necessary supporting files.
+Preprocess Images:
+
+Define the dataset folder and iterate through each image:
+Check File Extensions: Ensure files are valid image formats (e.g., .jpg, .png).
+Resize Images: Adjust image dimensions to ensure uniformity across the dataset.
+Apply Gaussian Blur: Smooth images to reduce noise.
+Apply Canny Edge Detection:
+
+Detect edges in the images using the Canny edge detection method to highlight features.
+Perform Morphological Operations:
+
+Define a kernel for morphological transformations.
+Erosion: Apply erosion to remove small noise and refine edges.
+Dilation: Follow erosion with dilation to enhance essential features and restore edge structure.
+Display Results:
+
+Use matplotlib to visualize each step:
+Step 1: Original Image.
+Step 2: Canny Image.
+Step 3: Eroded Image.
+Step 4: Dilated Image.
+Step 5: Final Processed Result.
 
  # Conclusion
 
