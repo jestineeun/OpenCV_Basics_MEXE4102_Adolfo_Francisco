@@ -74,7 +74,31 @@ The pipeline provides clear and intuitive visual outputs at each stage, allowing
 
   # Additional Materials
 
-  - picture yan bes
+    - The code is provided in this repository with the file name OPenCV_Basics_MEXE4102_Adolfo_Francisco - 16.ipynb
+    - The recorded demonstration of the program is in this link: https://drive.google.com/file/d/1_xtMMMz7FzgOy9ijarUeFIibazV33Cpl/view?usp=sharing
+    - The following images are the results of this project
+
+      ![image](https://github.com/user-attachments/assets/c5a4b5f8-1dd4-448b-bd31-dcc571e2d9a5)
+      ![image](https://github.com/user-attachments/assets/14b41f8d-9674-422a-b86a-6c3909583d65)
+      ![image](https://github.com/user-attachments/assets/2510ccbb-c0b3-444c-b943-7158b4cba2b3)
+      ![image](https://github.com/user-attachments/assets/041432d6-b641-4240-9de0-fc3872a6bd58)
+      ![image](https://github.com/user-attachments/assets/b724da0b-99e5-4b9e-a8b3-21f4152d8000)
+      ![image](https://github.com/user-attachments/assets/e24f904b-4686-43a2-bcaf-0e51c759b588)
+      ![image](https://github.com/user-attachments/assets/7571ffea-16ed-484a-9e01-2dd5b9280acc)
+      ![image](https://github.com/user-attachments/assets/83e8419c-8193-495d-b791-452ba66db323)
+
+
+  # Members
+   - Adolfo, Jann Shane
+   - Francisco, Jestine Anne A.
+
+
+
+
+
+
+
+
 
 
 
